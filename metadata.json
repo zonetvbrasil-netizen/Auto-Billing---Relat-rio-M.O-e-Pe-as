@@ -1,0 +1,5 @@
+{
+  "name": "AutoBilling Funilaria",
+  "description": "Sistema completo para controle de faturamento de peças e serviços de funilaria, com separação por seguradora, marca e modelo, incluindo análise inteligente via Gemini.",
+  "requestFramePermissions": []
+}
